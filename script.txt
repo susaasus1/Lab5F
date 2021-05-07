@@ -1,0 +1,6 @@
+show
+info
+execute_script a.txt
+info
+add
+Name
